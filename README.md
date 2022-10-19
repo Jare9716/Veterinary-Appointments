@@ -27,10 +27,7 @@ This project has the react-native-date-picker library, before launching the proj
  
  
  
- <img src="/src/ImageApp/Screenshot_1666202320.png" alt="drawing" width="300"/> &nbsp;&nbsp;&nbsp;&nbsp;
+
  <img src="/src/ImageApp/Screenshot_1666202324.png" alt="drawing" width="300"/> &nbsp;&nbsp;&nbsp;&nbsp; 
  <img src="/src/ImageApp/Screenshot_1666202327.png" alt="drawing" width="300"/> &nbsp;&nbsp;&nbsp;&nbsp; 
- 
- 
- 
  <img src="/src/ImageApp/Screenshot_1666202491.png" alt="drawing" width="300"/> &nbsp;&nbsp;&nbsp;&nbsp; 
